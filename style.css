@@ -1,0 +1,305 @@
+
+body {
+    font-family: anime, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f6bad3;
+    color: #e20051;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.4), /* Darker sharp shadow */
+                 1.5px 1.5px 0px rgba(0, 0, 0, 0.2);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23cf003d' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-1h16v-1h17z'/></g></g></svg>"); 
+    background-repeat: repeat;
+    background-size: 30px 30px;
+    background-attachment: fixed;
+    max-width: 100%;
+}
+
+/* Header Styling */
+header {
+    background-color: #fff;
+    padding: 1rem;
+    border-bottom: 2px solid #e20051;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    margin-bottom: 15px;
+    }
+
+
+/* Header content flex styling */
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100vw;
+    overflow: visible;
+}
+
+/* Portfolio title styling */
+.portfolio-title {
+    font-size: 26px;
+    font-weight: bold;
+    color: #e20051;
+    position: relative;
+    left: -200px; 
+}
+
+/* Hover effect for links */
+nav a:hover {
+    background-color: #f6bad3;
+    color: #c10041;
+}
+
+/* Navigation styling */
+nav {
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #e20051;
+    font-weight: bold;
+}
+
+.header-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 10px;
+    border: 2px solid #e20051;
+    margin-top: 15px; /* Adds some space between the text and the image */
+}
+
+/* Section Styling */
+section {
+    padding: 6rem;
+    margin: 2rem auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* Skills and Projects boxes */
+.my-skills {
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    width: 100%;
+    padding: 6;
+}
+.projects {
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    padding: 9;
+}
+
+/* Ensure vertical scrolling */
+body {
+    min-height: 200vh; 
+}
+
+/* Custom Font */
+@font-face {
+    font-family: 'anime';
+    src: url('project/fonts/font.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'y2k';
+    src: url('project/fonts/y2k.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bore';
+    src: url('pointfree.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/* About Me Image Styling */
+.about-image1 {
+    width: 150px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 50px; /* Move the image further to the left */
+    top: 370px; /* Push the image down for better separation */
+    transform: rotate(-30deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+/* About Me Image Styling */
+.about-image2 {
+    width: 150px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 500px; /* Move the image further to the left */
+    top: 180px; /* Push the image down for better separation */
+    transform: rotate(-30deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+.about-image3 {
+    width: 120px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 1400px; /* Move the image further to the left */
+    top: 900px; /* Push the image down for better separation */
+    transform: rotate(-35deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+.about-image4 {
+    width: 120px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 120px; /* Move the image further to the left */
+    top: 1150px; /* Push the image down for better separation */
+    transform: rotate(-35deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+.about-image5 {
+    width: 150px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 210px; /* Move the image further to the left */
+    top: 750px; /* Push the image down for better separation */
+    transform: rotate(-35deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+.about-image6 {
+    width: 150px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 1400px; /* Move the image further to the left */
+    top: 550px; /* Push the image down for better separation */
+    transform: rotate(-35deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+
+.about-image7 {
+    width: 150px; /* Adjust to the desired width */
+    height: auto; /* Maintains the aspect ratio */
+    position: absolute;
+    margin-top: 0; /* Reset margin-top to avoid pushing it further */
+    left: 1000px; /* Move the image further to the left */
+    top: 250px; /* Push the image down for better separation */
+    transform: rotate(-35deg); /* Apply rotation */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for transformations */
+}
+/* Optional: Hover or animation effect (if needed) */
+.about-image1:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+.about-image2:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+
+.about-image3:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+
+.about-image4:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+.about-image5:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+.about-image6:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+.about-image7:hover {
+    transform: rotate(0deg); /* Reset rotation on hover (or apply another effect) */
+}
+
+
+
+.about-me {
+    font-family: 'y2k', sans-serif;
+    font-size: 2.2rem;
+    margin-top: 180px;
+    padding-bottom: 20px;
+    -webkit-text-stroke: 1px #ffcada; /* Adjust or remove if unnecessary */
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid #F9F6EF;
+    width: 100%;
+    color: #e20051;
+    animation: typing 4s steps(100) 1s forwards;
+    margin-bottom: 100px;
+}
+
+/* Ensure proper keyframes */
+@keyframes typing {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+}
+.video-container {
+    position: absolute;
+    top: 50%; /* Center the video vertically */
+    left: 50%; /* Center the video horizontally */
+    transform: translate(-50%, -50%); /* Adjust to truly center */
+    width: 80%; /* Adjust the width as needed */
+    height: 70%; /* Adjust the height as needed */
+    z-index: 2; /* Ensure the video appears above the image */
+    border-radius: 10px; /* Optional: add rounded corners */
+    overflow: hidden; /* Hide anything outside the container */
+}
+
+video {
+    width: 65%; /* Make it responsive */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover;
+    display: block; /* Ensures the element respects block alignment */
+    margin-left: 190px;
+    
+  }
+
+
+  .bio {
+    margin-top: 80px; /* Add spacing above the bio */
+    font-size: 24px; /* Set readable text size */
+    color: #5b0691; /* Set text color */
+    font-family: bore, sans-serif;
+    line-height: 1.6; /* Improve readability */
+  }
+
+  .social-icons {
+    margin-top: 20px; /* Add spacing above icons */
+  }
+  
+  .social-icons {
+    margin-top: 20px; /* Add spacing above icons */
+    text-align: center; /* Center-align the icons */
+  }
+  
+  .social-icons a {
+    margin: 0 10px; /* Space between icons */
+    text-decoration: none; /* Remove underline */
+    font-size: 24px; /* Adjust icon size */
+    display: inline-block; /* Ensure icons stay inline */
+  }
